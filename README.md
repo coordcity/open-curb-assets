@@ -1,10 +1,13 @@
 # Open Curb Assets Specification
 
-The Open Curb Assets Data Specification defines a format for sharing data about
+The [Open Curb Assets Data specification](https://github.com/coordcity/open-curb-assets/blob/master/open-curb-assets-spec.md) defines a format for sharing data about
 features of curbs. This includes both features of the sidewalk, like bike racks,
 parking signs, and fire hydrants, as well as features of the street, like lane
 markings, curb cuts, and crosswalks. What these features all have in common is
 that they serve to define which activities can happen along the side of a street.
+
+[Coord](https://coord.co) has implemented an [Open Curbs viewer](https://www.coord.co/open-curb-data) to demonstrate how
+curb asset data can be visualized and exported.
 
 ## License
 
