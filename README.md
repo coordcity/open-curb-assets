@@ -6,9 +6,6 @@ parking signs, and fire hydrants, as well as features of the street, like lane
 markings, curb cuts, and crosswalks. What these features all have in common is
 that they serve to define which activities can happen along the side of a street.
 
-[Coord](https://coord.co) has implemented an [Open Curbs viewer](https://www.coord.co/open-curb-data) to demonstrate how
-curb asset data can be visualized and exported.
-
 ## License
 
 The text of this specification is licensed under a
