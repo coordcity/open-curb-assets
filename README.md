@@ -6,9 +6,9 @@ parking signs, and fire hydrants, as well as features of the street, like lane
 markings, curb cuts, and crosswalks. What these features all have in common is
 that they serve to define which activities can happen along the side of a street.
 
-# Sample Data
+# Open Curb Data
 
-We have exported asset data samples from collections by Coord and others in a number of cities. These data samples are listed below.
+Coord and our partners have released open curb data for public use under the [Open Database License](https://opendatacommons.org/licenses/odbl/1.0/index.html). Collected curb assets include parking signs, fire hydrants, loading zones, bus stops and more.
 - [Corso Buenos Aires, Milan](open-curb-data/milan.geojson), Nov-Dec 2018
 - [2me Arrondissement, Paris](open-curb-data/paris.geojson), Feb 2019, collected by [Autonomy](https://www.autonomy.paris/)
 - [Downtown, Santa Monica](open-curb-data/santa_monica.geojson), Feb-Mar 2019, collected by [DTSM](https://www.downtownsm.com/)
